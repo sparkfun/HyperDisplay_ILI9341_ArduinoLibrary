@@ -1,7 +1,7 @@
-HyperDisplay ILI9163C Arduino Library
+HyperDisplay ILI9341 Arduino Library
 ========================================
 
-This is a mid-level extension to [HyperDisplay](https://github.com/sparkfun/SparkFun_HyperDisplay). It provides for control of any display using the ILI9163C driver, however it doesn not provide any instantiable classes. To use this driver make sure you have [HyperDisplay](https://github.com/sparkfun/SparkFun_HyperDisplay) then derive a new class for your particular display and implement all pure-virtual functions.
+This is a mid-level extension to [HyperDisplay](https://github.com/sparkfun/SparkFun_HyperDisplay). It provides for control of any display using the ILI9341 driver, however it doesn not provide any instantiable classes. To use this driver make sure you have [HyperDisplay](https://github.com/sparkfun/SparkFun_HyperDisplay) then derive a new class for your particular display and implement all pure-virtual functions.
 
 Dependencies
 ------------
@@ -23,7 +23,7 @@ Documentation
 
 Products that use this Library 
 ---------------------------------
-* [SparkFun 1.8 inch TFT Breakout 128x160](https://www.sparkfun.com/products/15143)
+* [SparkFun MicroMod Input and Display Carrier Board](https://www.sparkfun.com/products/16985)
 
 Version History
 ---------------
